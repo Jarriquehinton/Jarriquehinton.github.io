@@ -10,5 +10,5 @@ Camera effects
 
 This is my Camera Effects Project
 
-![picture_title](https://github.com/Jarriquehinton/Jarriquehinton.github.io/blob/master/Jarrique.PNG
+![Jarrique](https://github.com/Jarriquehinton/Jarriquehinton.github.io/blob/master/Jarrique.PNG
 ?raw=true "Optional Title")
